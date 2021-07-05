@@ -1,2 +1,4 @@
 # EEE4178
-Introduction to Artificial Intelligence(2020-2) 
+Introduction to Artificial Intelligence(Deep Learning)
+2020 Fall
+
